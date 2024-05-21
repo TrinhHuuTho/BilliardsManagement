@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Manager\LQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\DMKQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\DMKCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\LuongNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\RSPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\RSPassQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\XTKQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\BilliardsManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\CFDungTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\LBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\MBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\LNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\QuanLyNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\del.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu\exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\LFoodAndDrink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\MFoodAndDrink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\ThemMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\XoaMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\XoaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\XoaMonBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\ThemQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

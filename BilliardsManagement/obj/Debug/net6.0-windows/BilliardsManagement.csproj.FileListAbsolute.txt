@@ -1,0 +1,231 @@
+D:\OOP\BilliardsManagement\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+D:\OOP\BilliardsManagement\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+D:\OOP\BilliardsManagement\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+D:\OOP\BilliardsManagement\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Credits.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Credits.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+D:\OOP\BilliardsManagement\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LFoodAndDrink.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LNhanVien.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.QuanLyNhanVien.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaTaiKhoan.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMonBill.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThanhToan.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.confirm.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LBill.resources
+D:\OOP\BilliardsManagement - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MBill.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+D:\OOP\BilliardsManagement Final\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+D:\OOP\BilliardsManagement Final\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+D:\OOP\BilliardsManagement Final\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LBill.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LNhanVien.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MBill.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.QuanLyNhanVien.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaTaiKhoan.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Credits.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.confirm.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThanhToan.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMonBill.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LBill.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LNhanVien.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MBill.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.QuanLyNhanVien.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaTaiKhoan.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Credits.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.confirm.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThanhToan.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMonBill.resources
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Copy\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.CFDungTime.resources
+D:\OOP\BilliardsManagement Final\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.CFDungTime.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LBill.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LNhanVien.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MBill.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.QuanLyNhanVien.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaTaiKhoan.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.CFDungTime.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.confirm.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThanhToan.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMonBill.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemQuanLy.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LuongNhanVien.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.RSPass.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DMKCF.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DMKQL.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XTKQL.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.RSPassQL.resources
+D:\OOP\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LQuanLy.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.exe
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.deps.json
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.runtimeconfig.json
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.dll
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\bin\Debug\net6.0-windows\BilliardsManagement.pdb
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.del.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DMKCF.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DMKQL.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.DoiMatKhau.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LBill.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LFoodAndDrink.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LNhanVien.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LQuanLy.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.LuongNhanVien.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Manager.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MBill.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.MFoodAndDrink.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.QuanLyNhanVien.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.RSPass.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.RSPassQL.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemMon.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThemQuanLy.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMon.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaTaiKhoan.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XTKQL.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.exit.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Login.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Menu.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.SignUp.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.Properties.Resources.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.BilliardsManagement.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.CFDungTime.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.confirm.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.ThanhToan.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.XoaMonBill.resources
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.GenerateResource.cache
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfoInputs.cache
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.AssemblyInfo.cs
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.csproj.CoreCompileInputs.cache
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.dll
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\refint\BilliardsManagement.dll
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.pdb
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\BilliardsManagement.genruntimeconfig.cache
+F:\BilliardsManagement Final - Mẫu\BilliardsManagement\obj\Debug\net6.0-windows\ref\BilliardsManagement.dll
